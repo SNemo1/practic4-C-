@@ -1,0 +1,15 @@
+/Users/macbookpro2017/RiderProjects/practic4-C-/bin/Debug/net10.0/practic4-C-
+/Users/macbookpro2017/RiderProjects/practic4-C-/bin/Debug/net10.0/practic4-C-.deps.json
+/Users/macbookpro2017/RiderProjects/practic4-C-/bin/Debug/net10.0/practic4-C-.runtimeconfig.json
+/Users/macbookpro2017/RiderProjects/practic4-C-/bin/Debug/net10.0/practic4-C-.dll
+/Users/macbookpro2017/RiderProjects/practic4-C-/bin/Debug/net10.0/practic4-C-.pdb
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.AssemblyInfoInputs.cache
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.AssemblyInfo.cs
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.csproj.CoreCompileInputs.cache
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.sourcelink.json
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.dll
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/refint/practic4-C-.dll
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.pdb
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/practic4-C-.genruntimeconfig.cache
+/Users/macbookpro2017/RiderProjects/practic4-C-/obj/Debug/net10.0/ref/practic4-C-.dll
